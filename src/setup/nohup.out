@@ -1,0 +1,19 @@
+setenv-global.sh ...
+setenv-dev-workspace.sh: start
+Sourcing existing project file '/home/ubuntu/project-id.sh'...
+export PROJECT=roman-test-oct9
+PROJECT='roman-test-oct9'
+Updated property [core/project].
+setenv-dev-workspace.sh: done
+... setenv-global.sh
+
+[32m*************************************************************************[0m
+[32mSTARTED: Delete workshop users, folders, etc. (delete-hackathon.sh)[0m
+[32m*************************************************************************[0m
+[32m[INFO] delete-hackathon.sh->
+ATTENTION!!!!!!!!!!!
+ATTENTION!!!!!!!!!!!
+ATTENTION!!!!!!!!!!!
+ (0.00 seconds)[0m
+[0;31m[WARNING] delete-hackathon.sh->This will remove all Users, Projects, Folders under the folder --- 'Oct-30-dc' ---. Are you sure you want to proceed? (0.00 seconds)[0m
+../setenv-global.sh: line 88: read: read error: 0: Bad file descriptor
